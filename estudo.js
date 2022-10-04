@@ -1,11 +1,11 @@
-//alert("oi filha eu sou o alert")
-//console.log ("oi, eu estou no console")
-//document.write("Aula de pens, computacional")
+//alert("");
+//console.log("");
+//document.write("");
 
-let tabuada = 8;
+var tabuada = 8;
 
-function mechame(nome){
-    document.write(<h1>tabuada do " + tabuada + "</h1>);
+function meChame(nome){
+    document.write("<h1>Tabuada do " + tabuada + "</h1>");
     document.write(tabuada + " x 1 = "+(tabuada*1)+"<br>");
     document.write(tabuada + " x 2 = "+(tabuada*2)+"<br>");
     document.write(tabuada + " x 3 = "+(tabuada*3)+"<br>");
@@ -15,7 +15,21 @@ function mechame(nome){
     document.write(tabuada + " x 7 = "+(tabuada*7)+"<br>");
     document.write(tabuada + " x 8 = "+(tabuada*8)+"<br>");
     document.write(tabuada + " x 9 = "+(tabuada*9)+"<br>");
-    document.write(tabuada + " x 10 = "+(tabuada*10)+"<br>");
-    document.write(Feita por " + nome);
+    document.write(tabuada + " x 10 = "+(tabuada*10)+"<br");
+    document.write("Feita por " + nome);
+    
+}
+//for(incio; validacao,manutenção)
+function escreva(){
+    for(var i = 1; i < 10; i++){
 
+        document.write(tabuada + " x " + i + " = "+(tabuada*i)+"<br");
+
+
+    }
+}
+function quadrado(){
+    for(var i = 2; i < 21; i++){
+        document.write("O quadrado de " + i + " é " + (i*i)+ "<br>")
+    }
 }
