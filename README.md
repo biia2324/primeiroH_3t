@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
-## identificação
-Gustavo Henrique Da Silva Pereira - Nr. 10
+## Identificação
+Nome: Giovana Dos Santos Penatti Nr.08
 
-## conteudo
-html, css e javascript
+## Assuntos
+HTML, CSS e JavaScript
