@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Nome: Giovana Dos Santos Penatti Nr.08
+Nome: Bianca de souza rosa nmr.44
 
 ## Assuntos
 HTML, CSS e JavaScript
