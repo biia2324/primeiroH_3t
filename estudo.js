@@ -8,7 +8,7 @@ function total(){
     let mes = document.getElementById("mes").value;
 
     if(!Number(valor)){
-        alert("O o valor deve ser um número.");
+        alert("O valor deve ser um número.");
 
         document.getElementById("val").value ="";
         document.getElementById("val").focus();
