@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Nome: Bianca de souza rosa nmr.44
+Bianca - N 44
 
-## Assuntos
-HTML, CSS e JavaScript
+## Conteúdo
+HTML, CSS e javaScript
