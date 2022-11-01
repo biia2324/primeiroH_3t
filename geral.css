@@ -3,6 +3,10 @@
     background: rgb(166, 100, 197);
     width: 200px;
     border-radius: 20px;
+    border-width: 25px;
+    border-style: solid;
+    border-color: rgb(84, 8, 119);
+   
 }
 .listaMensal {
     padding: 10px;
